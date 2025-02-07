@@ -13,5 +13,5 @@ struct estudiante{
     bool estadoFinal;
 }
 int main(){
-    
+    printf("hola");
 }
